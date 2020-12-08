@@ -2,7 +2,7 @@
 export const authEndpoint = "https://accounts.spotify.com/authorize";
 // Replace with your app's client ID, redirect URI and desired scopes
 const clientId = "7ba5f88ac19e44ab96934d71609f2a8b";
-const redirectUri = "https://gopigaurav.github.io/Spotify-clone/";
+const redirectUri = "https://gopigaurav.github.io/Spotify-clone-appp/";
 const scopes = [
   "user-read-currently-playing",
   "user-read-recently-played",

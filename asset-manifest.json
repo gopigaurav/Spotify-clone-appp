@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Spotify-clone-app/static/css/main.2625a82f.chunk.css",
+    "main.js": "/Spotify-clone-app/static/js/main.9c60ab1a.chunk.js",
+    "main.js.map": "/Spotify-clone-app/static/js/main.9c60ab1a.chunk.js.map",
+    "runtime-main.js": "/Spotify-clone-app/static/js/runtime-main.f4bed082.js",
+    "runtime-main.js.map": "/Spotify-clone-app/static/js/runtime-main.f4bed082.js.map",
+    "static/js/2.5ae8ea6e.chunk.js": "/Spotify-clone-app/static/js/2.5ae8ea6e.chunk.js",
+    "static/js/2.5ae8ea6e.chunk.js.map": "/Spotify-clone-app/static/js/2.5ae8ea6e.chunk.js.map",
+    "index.html": "/Spotify-clone-app/index.html",
+    "precache-manifest.bb648b4a80462c70781d20d080b01afe.js": "/Spotify-clone-app/precache-manifest.bb648b4a80462c70781d20d080b01afe.js",
+    "service-worker.js": "/Spotify-clone-app/service-worker.js",
+    "static/css/main.2625a82f.chunk.css.map": "/Spotify-clone-app/static/css/main.2625a82f.chunk.css.map",
+    "static/js/2.5ae8ea6e.chunk.js.LICENSE.txt": "/Spotify-clone-app/static/js/2.5ae8ea6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4bed082.js",
+    "static/js/2.5ae8ea6e.chunk.js",
+    "static/css/main.2625a82f.chunk.css",
+    "static/js/main.9c60ab1a.chunk.js"
+  ]
+}
